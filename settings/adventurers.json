@@ -1,0 +1,155 @@
+[
+  {
+    "eid": 1,
+    "name": "村人",
+    "rank": "n",
+    "agility": 6,
+    "probability": 30,
+    "count": 3,
+    "ability": ""
+  },
+  {
+    "eid": 2,
+    "name": "魔法使いの助手",
+    "rank": "n",
+    "agility": 8,
+    "probability": 40,
+    "count": 3,
+    "ability": ""
+  },
+  {
+    "eid": 3,
+    "name": "ベテランの門番",
+    "rank": "n",
+    "agility": 2,
+    "probability": 60,
+    "count": 2,
+    "ability": "後攻を取ると、確率がプラス20%。"
+  },
+  {
+    "eid": 4,
+    "name": "熟練の槍使い",
+    "rank": "r",
+    "agility": 6,
+    "probability": 60,
+    "count": 2,
+    "ability": "速さが同じ場合、先攻を取る。"
+  },
+  {
+    "eid": 5,
+    "name": "煌めきの騎士",
+    "rank": "r",
+    "agility": 4,
+    "probability": 70,
+    "count": 1,
+    "ability": ""
+  },
+  {
+    "eid": 6,
+    "name": "手練れの盗賊",
+    "rank": "r",
+    "agility": 9,
+    "probability": 10,
+    "count": 2,
+    "ability": "先攻を取った場合、相手の確率を-20％。"
+  },
+  {
+    "eid": 7,
+    "name": "毒使い",
+    "rank": "r",
+    "agility": 5,
+    "probability": 30,
+    "count": 1,
+    "ability": "相手の確率を-50%。"
+  },
+  {
+    "eid": 8,
+    "name": "混沌の使者",
+    "rank": "e",
+    "agility": 2,
+    "probability": 20,
+    "count": 1,
+    "ability": "場にある相手カード1枚と、このカードの能力を入れ替える。"
+  },
+  {
+    "eid": 9,
+    "name": "星の貴族",
+    "rank": "r",
+    "agility": 3,
+    "probability": 40,
+    "count": 1,
+    "ability": "次の手番に、山札を2枚引ける。"
+  },
+  {
+    "eid": 10,
+    "name": "トリックスター",
+    "rank": "e",
+    "agility": 7,
+    "probability": 50,
+    "count": 2,
+    "ability": "次の手番に、相手プレイヤーが出せるカードは1枚。"
+  },
+  {
+    "eid": 11,
+    "name": "塔の賢者",
+    "rank": "r",
+    "agility": 1,
+    "probability": 20,
+    "count": 2,
+    "ability": "次の手番に、自キャラの確率を2倍する。"
+  },
+  {
+    "eid": 12,
+    "name": "鉄壁の重騎士",
+    "rank": "e",
+    "agility": 1,
+    "probability": 90,
+    "count": 1,
+    "ability": "敵からのスキルの影響を受けない。"
+  },
+  {
+    "eid": 13,
+    "name": "愉快な道連れ",
+    "rank": "n",
+    "agility": 2,
+    "probability": 20,
+    "count": 3,
+    "ability": "同行人数+1。"
+  },
+  {
+    "eid": 14,
+    "name": "歩兵連隊",
+    "rank": "r",
+    "agility": 2,
+    "probability": 20,
+    "count": 2,
+    "ability": "同行人数+2。"
+  },
+  {
+    "eid": 15,
+    "name": "竜殺し",
+    "rank": "e",
+    "agility": 5,
+    "probability": 50,
+    "count": 2,
+    "ability": "相手が【竜】の場合、確率が2倍。"
+  },
+  {
+    "eid": 16,
+    "name": "からくり人形",
+    "rank": "n",
+    "agility": 1,
+    "probability": 10,
+    "count": 5,
+    "ability": "場に【人形使い】がいるとき、確率が2倍。"
+  },
+  {
+    "eid": 17,
+    "name": "人形使い",
+    "rank": "e",
+    "agility": 2,
+    "probability": 30,
+    "count": 2,
+    "ability": ""
+  }
+]

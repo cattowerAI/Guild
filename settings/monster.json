@@ -1,0 +1,308 @@
+﻿[
+  {
+    "eid": 1,
+    "name": "スライム",
+    "rank": 1,
+    "race": "魔法生物",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 2,
+    "name": "ゴブリン",
+    "rank": 1,
+    "race": "亜人",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 3,
+    "name": "オーク",
+    "rank": 1,
+    "race": "亜人",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 4,
+    "name": "ウェアウルフ",
+    "rank": 2,
+    "race": "亜人",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 5,
+    "name": "ケンタウロス",
+    "rank": 3,
+    "race": "亜人",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 6,
+    "name": "ミノタウロス",
+    "rank": 5,
+    "race": "亜人",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  },
+  {
+    "eid": 7,
+    "name": "スキュラ",
+    "rank": 3,
+    "race": "亜人",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 8,
+    "name": "エンプーサ",
+    "rank": 4,
+    "race": "悪魔",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 9,
+    "name": "ハーピー",
+    "rank": 2,
+    "race": "亜人",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 10,
+    "name": "ホルス",
+    "rank": 3,
+    "race": "亜人",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 11,
+    "name": "メデューサ",
+    "rank": 4,
+    "race": "悪魔",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 12,
+    "name": "フェンリル",
+    "rank": 5,
+    "race": "悪魔",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  },
+  {
+    "eid": 13,
+    "name": "ユニコーン",
+    "rank": 2,
+    "race": "獣",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 14,
+    "name": "コカトリス",
+    "rank": 3,
+    "race": "獣",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 15,
+    "name": "ホムンクルス",
+    "rank": 4,
+    "race": "亜人",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 16,
+    "name": "ダークエルフ",
+    "rank": 4,
+    "race": "亜人",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 17,
+    "name": "オベロン",
+    "rank": 5,
+    "race": "亜人",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  },
+  {
+    "eid": 18,
+    "name": "サラマンダー",
+    "rank": 3,
+    "race": "精霊",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 19,
+    "name": "ワイバーン",
+    "rank": 5,
+    "race": "竜",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  },
+  {
+    "eid": 20,
+    "name": "ヨルムンガンド",
+    "rank": 5,
+    "race": "竜",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  },
+  {
+    "eid": 21,
+    "name": "ナイトメア",
+    "rank": 1,
+    "race": "悪魔",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 22,
+    "name": "サキュバス",
+    "rank": 2,
+    "race": "悪魔",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 23,
+    "name": "ヴァンパイア",
+    "rank": 3,
+    "race": "不死",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 24,
+    "name": "ウィッチ",
+    "rank": 3,
+    "race": "魔女",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 25,
+    "name": "トロール",
+    "rank": 3,
+    "race": "亜人",
+    "ability": "",
+    "points": 15,
+    "count": 3
+  },
+  {
+    "eid": 26,
+    "name": "ミミック",
+    "rank": 2,
+    "race": "魔法生物",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 27,
+    "name": "ゴーレム",
+    "rank": 4,
+    "race": "魔法生物",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 28,
+    "name": "レイス",
+    "rank": 2,
+    "race": "幽鬼",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 29,
+    "name": "スケルトン",
+    "rank": 1,
+    "race": "不死",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 30,
+    "name": "マミー",
+    "rank": 2,
+    "race": "不死",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 31,
+    "name": "ゾンビ",
+    "rank": 1,
+    "race": "不死",
+    "ability": "",
+    "points": 5,
+    "count": 5
+  },
+  {
+    "eid": 32,
+    "name": "デュラハン",
+    "rank": 4,
+    "race": "魔法生物",
+    "ability": "r以上でなければ倒せない",
+    "points": 20,
+    "count": 2
+  },
+  {
+    "eid": 33,
+    "name": "セルケト",
+    "rank": 2,
+    "race": "獣",
+    "ability": "",
+    "points": 10,
+    "count": 4
+  },
+  {
+    "eid": 34,
+    "name": "ドラゴン",
+    "rank": 5,
+    "race": "竜",
+    "ability": "e以上でなければ倒せない",
+    "points": 30,
+    "count": 1
+  }
+]
