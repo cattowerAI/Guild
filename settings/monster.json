@@ -6,7 +6,8 @@
     "race": "魔法生物",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 2,
@@ -15,7 +16,8 @@
     "race": "亜人",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 3,
@@ -24,7 +26,8 @@
     "race": "亜人",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 4,
@@ -33,7 +36,8 @@
     "race": "亜人",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 5,
@@ -42,7 +46,8 @@
     "race": "亜人",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 6,
@@ -51,7 +56,8 @@
     "race": "亜人",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   },
   {
     "eid": 7,
@@ -60,7 +66,8 @@
     "race": "亜人",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 8,
@@ -69,7 +76,8 @@
     "race": "悪魔",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 9,
@@ -78,7 +86,8 @@
     "race": "亜人",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 10,
@@ -87,7 +96,8 @@
     "race": "亜人",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 11,
@@ -96,7 +106,8 @@
     "race": "悪魔",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 12,
@@ -105,7 +116,8 @@
     "race": "悪魔",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   },
   {
     "eid": 13,
@@ -114,7 +126,8 @@
     "race": "獣",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 14,
@@ -123,7 +136,8 @@
     "race": "獣",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 15,
@@ -132,7 +146,8 @@
     "race": "亜人",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 16,
@@ -141,7 +156,8 @@
     "race": "亜人",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 17,
@@ -150,7 +166,8 @@
     "race": "亜人",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   },
   {
     "eid": 18,
@@ -159,7 +176,8 @@
     "race": "精霊",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 19,
@@ -168,7 +186,8 @@
     "race": "竜",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   },
   {
     "eid": 20,
@@ -177,7 +196,8 @@
     "race": "竜",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   },
   {
     "eid": 21,
@@ -186,7 +206,8 @@
     "race": "悪魔",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 22,
@@ -195,7 +216,8 @@
     "race": "悪魔",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 23,
@@ -204,7 +226,8 @@
     "race": "不死",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 24,
@@ -213,7 +236,8 @@
     "race": "魔女",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 25,
@@ -222,7 +246,8 @@
     "race": "亜人",
     "ability": "",
     "points": 15,
-    "count": 3
+    "numberOfSheets": 3,
+    "publicOrder": 3
   },
   {
     "eid": 26,
@@ -231,7 +256,8 @@
     "race": "魔法生物",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 27,
@@ -240,7 +266,8 @@
     "race": "魔法生物",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 28,
@@ -249,7 +276,8 @@
     "race": "幽鬼",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 29,
@@ -258,7 +286,8 @@
     "race": "不死",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 30,
@@ -267,7 +296,8 @@
     "race": "不死",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 31,
@@ -276,7 +306,8 @@
     "race": "不死",
     "ability": "",
     "points": 5,
-    "count": 5
+    "numberOfSheets": 5,
+    "publicOrder": 1
   },
   {
     "eid": 32,
@@ -285,7 +316,8 @@
     "race": "魔法生物",
     "ability": "r以上でなければ倒せない",
     "points": 20,
-    "count": 2
+    "numberOfSheets": 2,
+    "publicOrder": 4
   },
   {
     "eid": 33,
@@ -294,7 +326,8 @@
     "race": "獣",
     "ability": "",
     "points": 10,
-    "count": 4
+    "numberOfSheets": 4,
+    "publicOrder": 2
   },
   {
     "eid": 34,
@@ -303,6 +336,7 @@
     "race": "竜",
     "ability": "e以上でなければ倒せない",
     "points": 30,
-    "count": 1
+    "numberOfSheets": 1,
+    "publicOrder": 5
   }
 ]
