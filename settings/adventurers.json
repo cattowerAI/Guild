@@ -1,155 +1,83 @@
 [
   {
     "eid": 1,
-    "name": "‘ºl",
+    "name": "æ‘äºº",
     "rank": "n",
-    "agility": 6,
-    "probability": 30,
-    "count": 3,
-    "ability": ""
+    "Agility": 1,
+    "Probability": 30,
+    "NumberOfSheets": 6,
+    "Ability": ""
   },
   {
     "eid": 2,
-    "name": "–‚–@g‚¢‚Ì•è",
+    "name": "é­”æ³•ä½¿ã„ã®åŠ©æ‰‹",
     "rank": "n",
-    "agility": 8,
-    "probability": 40,
-    "count": 3,
-    "ability": ""
+    "Agility": 3,
+    "Probability": 20,
+    "NumberOfSheets": 6,
+    "Ability": ""
   },
   {
     "eid": 3,
-    "name": "ƒxƒeƒ‰ƒ“‚Ì–å”Ô",
+    "name": "ãƒ™ãƒ†ãƒ©ãƒ³ã®é–€ç•ª",
     "rank": "n",
-    "agility": 2,
-    "probability": 60,
-    "count": 2,
-    "ability": "ŒãU‚ğæ‚é‚ÆAŠm—¦‚ªƒvƒ‰ƒX20%B"
+    "Agility": 2,
+    "Probability": 25,
+    "NumberOfSheets": 6,
+    "Ability": ""
   },
   {
     "eid": 4,
-    "name": "n—û‚Ì‘„g‚¢",
+    "name": "ç†Ÿç·´ã®æ§ä½¿ã„",
     "rank": "r",
-    "agility": 6,
-    "probability": 60,
-    "count": 2,
-    "ability": "‘¬‚³‚ª“¯‚¶ê‡AæU‚ğæ‚éB"
+    "Agility": 3,
+    "Probability": 40,
+    "NumberOfSheets": 5,
+    "Ability": ""
   },
   {
     "eid": 5,
-    "name": "àŠ‚ß‚«‚Ì‹Rm",
+    "name": "ç…Œã‚ãã®é¨å£«",
     "rank": "r",
-    "agility": 4,
-    "probability": 70,
-    "count": 1,
-    "ability": ""
+    "Agility": 2,
+    "Probability": 50,
+    "NumberOfSheets": 5,
+    "Ability": ""
   },
   {
     "eid": 6,
-    "name": "è—û‚ê‚Ì“‘¯",
+    "name": "æ‰‹ç·´ã‚Œã®ç›—è³Š",
     "rank": "r",
-    "agility": 9,
-    "probability": 10,
-    "count": 2,
-    "ability": "æU‚ğæ‚Á‚½ê‡A‘Šè‚ÌŠm—¦‚ğ-20“B"
-  },
-  {
-    "eid": 7,
-    "name": "“Åg‚¢",
-    "rank": "r",
-    "agility": 5,
-    "probability": 30,
-    "count": 1,
-    "ability": "‘Šè‚ÌŠm—¦‚ğ-50%B"
-  },
-  {
-    "eid": 8,
-    "name": "¬“×‚ÌgÒ",
-    "rank": "e",
-    "agility": 2,
-    "probability": 20,
-    "count": 1,
-    "ability": "ê‚É‚ ‚é‘ŠèƒJ[ƒh1–‡‚ÆA‚±‚ÌƒJ[ƒh‚Ì”\—Í‚ğ“ü‚ê‘Ö‚¦‚éB"
-  },
-  {
-    "eid": 9,
-    "name": "¯‚Ì‹M‘°",
-    "rank": "r",
-    "agility": 3,
-    "probability": 40,
-    "count": 1,
-    "ability": "Ÿ‚Ìè”Ô‚ÉARD‚ğ2–‡ˆø‚¯‚éB"
+    "Agility": 4,
+    "Probability": 20,
+    "NumberOfSheets": 5,
+    "Ability": ""
   },
   {
     "eid": 10,
-    "name": "ƒgƒŠƒbƒNƒXƒ^[",
+    "name": "ãƒˆãƒªãƒƒã‚¯ã‚¹ã‚¿ãƒ¼",
     "rank": "e",
-    "agility": 7,
-    "probability": 50,
-    "count": 2,
-    "ability": "Ÿ‚Ìè”Ô‚ÉA‘ŠèƒvƒŒƒCƒ„[‚ªo‚¹‚éƒJ[ƒh‚Í1–‡B"
+    "Agility": 7,
+    "Probability": 30,
+    "NumberOfSheets": 2,
+    "Ability": ""
   },
   {
     "eid": 11,
-    "name": "“ƒ‚ÌŒ«Ò",
-    "rank": "r",
-    "agility": 1,
-    "probability": 20,
-    "count": 2,
-    "ability": "Ÿ‚Ìè”Ô‚ÉA©ƒLƒƒƒ‰‚ÌŠm—¦‚ğ2”{‚·‚éB"
+    "name": "å¡”ã®è³¢è€…",
+    "rank": "e",
+    "Agility": 2,
+    "Probability": 50,
+    "NumberOfSheets": 2,
+    "Ability": ""
   },
   {
     "eid": 12,
-    "name": "“S•Ç‚Ìd‹Rm",
+    "name": "é‰„å£ã®é‡é¨å£«",
     "rank": "e",
-    "agility": 1,
-    "probability": 90,
-    "count": 1,
-    "ability": "“G‚©‚ç‚ÌƒXƒLƒ‹‚Ì‰e‹¿‚ğó‚¯‚È‚¢B"
-  },
-  {
-    "eid": 13,
-    "name": "–ù‰õ‚È“¹˜A‚ê",
-    "rank": "n",
-    "agility": 2,
-    "probability": 20,
-    "count": 3,
-    "ability": "“¯sl”+1B"
-  },
-  {
-    "eid": 14,
-    "name": "•à•º˜A‘à",
-    "rank": "r",
-    "agility": 2,
-    "probability": 20,
-    "count": 2,
-    "ability": "“¯sl”+2B"
-  },
-  {
-    "eid": 15,
-    "name": "—³E‚µ",
-    "rank": "e",
-    "agility": 5,
-    "probability": 50,
-    "count": 2,
-    "ability": "‘Šè‚ªy—³z‚Ìê‡AŠm—¦‚ª2”{B"
-  },
-  {
-    "eid": 16,
-    "name": "‚©‚ç‚­‚èlŒ`",
-    "rank": "n",
-    "agility": 1,
-    "probability": 10,
-    "count": 5,
-    "ability": "ê‚ÉylŒ`g‚¢z‚ª‚¢‚é‚Æ‚«AŠm—¦‚ª2”{B"
-  },
-  {
-    "eid": 17,
-    "name": "lŒ`g‚¢",
-    "rank": "e",
-    "agility": 2,
-    "probability": 30,
-    "count": 2,
-    "ability": ""
+    "Agility": 1,
+    "Probability": 70,
+    "NumberOfSheets": 2,
+    "Ability": ""
   }
 ]
